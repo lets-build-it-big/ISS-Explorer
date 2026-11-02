@@ -29,7 +29,7 @@ step or framework.
 - **Responsive mission-control UI** — optimized for desktop, tablet and phone,
   with keyboard shortcuts, display layers, and shareable URL parameters.
 
-## Run it
+## Run it<LINUX>
 
 No installation or build step is required. A local web server is recommended so
 that the live TLE request and geolocation behave consistently:
